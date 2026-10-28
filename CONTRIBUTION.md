@@ -19,9 +19,9 @@ My main focus was understanding the results, checking the notebook, and helping 
 
 ---
 
-## Member 2 – [Full Name]
+## Member 2 – saimi manasiya
+My contribution to Lab 08 was reviewing the concepts of the bias-variance tradeoff and understanding the results of the polynomial regression models. I examined how models with different polynomial degrees behave and how their learning curves help identify underfitting and overfitting. I also reviewed the knowledge-check questions and the explanations about training scores, cross-validation scores, and model generalization. Through this activity, I contributed to understanding the notebook results and connecting the practical observations with the concepts learned in class.
 
-### My Contribution
 
 
 ---
