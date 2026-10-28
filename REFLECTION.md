@@ -19,9 +19,12 @@ I also learned that we cannot judge a model only by how well it performs during 
 
 ---
 
-## Member 2 – [Full Name]
+## Member 2 – saimi manasiya
+In this lab, I learned about the bias-variance tradeoff and how model complexity affects the performance of machine learning models. I understood the difference between underfitting and overfitting by comparing polynomial regression models with degrees 1, 4, and 15. The degree 1 model was too simple to capture the pattern in the data, while the degree 4 model provided a better fit. The degree 15 model was more complex and showed signs of overfitting because it performed better on training data but struggled to generalize to unseen data.
 
-### My Reflection
+I also learned how learning curves help us understand a model’s performance by comparing training scores and cross-validation scores as the number of training examples increases. The degree 1 model showed signs of underfitting because it struggled to learn the underlying pattern even with more training data. The degree 15 model showed a larger difference between training and cross-validation performance, indicating high variance and poor generalization. This activity helped me understand why choosing the right model complexity is important in machine learning.
+
+Overall, this lab improved my understanding of polynomial regression, learning curves, underfitting, overfitting, and generalization. I learned that a complex model is not always the best model and that the goal is to find a balance between bias and variance. These concepts will help me understand how to build machine learning models that perform well on both training data and new, unseen data.
 
 
 ---
