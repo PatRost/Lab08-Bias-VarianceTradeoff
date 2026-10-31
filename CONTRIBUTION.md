@@ -26,9 +26,20 @@ My contribution to Lab 08 was reviewing the concepts of the bias-variance tradeo
 
 ---
 
-## Member 3 – [Full Name]
+## Member 3 – Kenneth Kouokam
 
-### My Contribution
+My assigned contribution to Module 08 is Synthetic Data and Initial Exploration. This role covers the
+setup that creates 100 input values between -5 and 5 and generates the target values by adding
+random noise to a sine function. The setup uses NumPy with random seed 0 so the same
+observations can be reproduced. My part includes checking that X has 100 rows and one feature,
+that y contains 100 corresponding values, and that the initial scatter plot displays the data clearly.
+
+The explanation for my section focuses on the difference between the underlying sine-wave pattern
+and the random variation around it. The noise helps show why a model should not try to follow every
+observation exactly. I also explain why all group members need to use the same generated data
+when comparing polynomial models of degrees 1, 4, and 15. This gives the group a consistent
+starting point and helps connect the initial data exploration to the later discussion of underfitting,
+overfitting, and performance on new examples.
 
 
 ---
