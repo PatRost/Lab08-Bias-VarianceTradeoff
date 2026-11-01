@@ -68,10 +68,25 @@ similar when the noise level or random seed changes.
 
 ---
 
-## Member 4 – [Full Name]
+## Member 4 – Anavictoria Cavazos
 
-### My Reflection
+After working through the google colab for lab 08 I learned about the importance of having a complexity balance in the model.
+This was seen when the polynomial degrees 1, 4, and 15 were used, 1 was underfitting, 15 was overfitting, but 4 was perfect, sort
+of reminds me of the famous children's story, "Goldilocks and the Three Bears". Although that has nothing to do with machine learning it 
+helps understand the concept of finding the right polynomial degree for a model when working with polynomial regression.
 
+Another aspect I will point out when working through the colab was the concept of the visual aids such as the graphs, shown in task 1 and 
+in task 2. The visual displayed in task 1 showed the comparison of all three polynomials with data points then the two graphs for task 2 
+show the testing score with the cross validation. Now when I was first going through the task and then the idea of learning curve I was 
+not fully understanding how it all worked, but when I looked at the lines for all three degrees it all made sense how they all interlink. 
+Based on my understanding degree 1 is terrible because it is literally a staright line, it has no where to move where it can cath data,
+which is why it is 'under' fitting. Then the line for degree 15 is way all over the place that it catches some of the noise, which is why
+it performs poorly on new unseen data. This idea shown with the lines and the data points is then displayed on the learning curves to 
+help see why and where the mistake occurs and how that looks when comparing the training and cross validation scores. 
+
+Overall, I really enjoyed working on lab 08 because the idea of underfitting and overfitting a model is very important, but sometimes can
+be seen as a simple concept. The risk of viewing this lesson in that manner is that one will not take this into consideration when 
+preparing their model, but when one takes into mind these ideas it helps the flow of the model to be much smoother and better. 
 
 ---
 
