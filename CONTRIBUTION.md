@@ -44,9 +44,18 @@ overfitting, and performance on new examples.
 
 ---
 
-## Member 4 – [Full Name]
+## Member 4 – Anavictoria Cavazos
 
-### My Contribution
+My personal contribution to this lab mainly focuses on the degree 15 that is seen in task 2.
+When examining the training/validation gap and score variation what is noticed is how the huge gap between the red line and the 
+green line display the main issue of the use of degree 15. What appears to be happening is that the training score shows how the model
+can easily remember tested data, but the green line (the cross validation) shows how it has a limit of being able to predict new data. 
+That is why that huge gap displayed by the green line shows that the model has trouble or problems with the new data when there are only
+a few samples presented, but as more and more data gets inserted it allows the cross validation to become better because the line does not
+have much wiggle room to go all over the place, instead it is restricted to stay confined with less room for error. 
+To summarize what this shows when comapring to degree 1 is how you want to find the right degree that does not show underfitting or 
+overfitting. In degree 1 both lines stay too close to the bottom meaning the model is too simple, while the gap from both lines in degree
+15 show that it is too complex, so in a model you want something in between those two when it comes to complexity, you want a balance.
 
 
 ---
