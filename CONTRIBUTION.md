@@ -60,6 +60,9 @@ overfitting. In degree 1 both lines stay too close to the bottom meaning the mod
 
 ---
 
-## Member 5 – [Full Name]
+## Member 5 – Hashim Sayed Hoosini
 
-### My Contribution
+Due to my demanding work schedule, I primarily had to work independently on this lab to keep pace with the coursework. I dedicated my individual study time to running the notebook code, verifying the outputs, and deeply analyzing the core concepts of underfitting (high bias), overfitting (high variance), and how the bias-variance tradeoff determines a model's generalizability. This independent execution allowed me to thoroughly digest the behavior of the polynomial regression curves and build a solid foundation before coordinating back with my group.
+
+Following our group's coordination, my assigned contribution was to focus specifically on the diagnostics of learning curves and the mechanics of high bias. I investigated how simple models like the Degree 1 polynomial fail to improve even when provided with more training examples, and I successfully documented these observations in the lab notebook. Throughout this process, I maintained communication with my team members, shared my findings, followed our agreed-upon instructions, and verified that my individual work aligned perfectly with the rest of the group's collective tasks.
+
